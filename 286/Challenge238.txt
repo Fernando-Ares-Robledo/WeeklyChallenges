@@ -1,0 +1,8 @@
+TASK #1: Self Spammer
+
+Write a program which outputs one word of its own script / source code at random. A word is anything between whitespace, including symbols.
+
+TASK #2: Order Game
+
+You are given an array of integers, @ints, whose length is a power of 2. Write a script to play the order game (min and max) and return the last element.
+
